@@ -1,5 +1,9 @@
 #!/bin/sh
 
+# Copyright (C) 2024 Toitware ApS.
+# Use of this source code is governed by an MIT-style license that can be
+# found in the LICENSE_TOOLS file.
+
 # Requires in your path:
 #  resvg from https://github.com/RazrFalcon/resvg
 #  pngquant, available in AUR.
